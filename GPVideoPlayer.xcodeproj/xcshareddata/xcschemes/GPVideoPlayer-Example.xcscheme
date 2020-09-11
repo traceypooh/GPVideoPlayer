@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-               BuildableName = "GPVideoPlayer_Example.app"
+               BuildableName = "iOS.app"
                BlueprintName = "GPVideoPlayer_Example"
                ReferencedContainer = "container:GPVideoPlayer.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "GPVideoPlayer_Example.app"
+            BuildableName = "iOS.app"
             BlueprintName = "GPVideoPlayer_Example"
             ReferencedContainer = "container:GPVideoPlayer.xcodeproj">
          </BuildableReference>
@@ -79,7 +79,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "GPVideoPlayer_Example.app"
+            BuildableName = "iOS.app"
             BlueprintName = "GPVideoPlayer_Example"
             ReferencedContainer = "container:GPVideoPlayer.xcodeproj">
          </BuildableReference>
@@ -96,7 +96,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "GPVideoPlayer_Example.app"
+            BuildableName = "iOS.app"
             BlueprintName = "GPVideoPlayer_Example"
             ReferencedContainer = "container:GPVideoPlayer.xcodeproj">
          </BuildableReference>

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:GPVideoPlayer.xcodeproj">
+      location = "self:/Users/tracey/dev/GPVideoPlayer/GPVideoPlayer.xcodeproj">
    </FileRef>
 </Workspace>
