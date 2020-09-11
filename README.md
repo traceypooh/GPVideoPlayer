@@ -26,8 +26,8 @@ To run the example project,
 3. Run the project (cmd + R)
 
 ## Code
-- [Example/GPVideoPlayer/ViewController.swift](Example/GPVideoPlayer/ViewController.swift)
-- [Example/GPVideoPlayer/GPVideoPlayer.swift](Example/GPVideoPlayer/GPVideoPlayer.swift)
+- [Example/ViewController.swift](Example/ViewController.swift)
+- [Example/GPVideoPlayer.swift](Example/GPVideoPlayer.swift)
 
 ## Customizing
 
