@@ -14,9 +14,23 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "40A97885250B456000D200C5"
-               BuildableName = "iOS.app"
-               BlueprintName = "iOS"
+               BlueprintIdentifier = "607FACCF1AFB9204008FA782"
+               BuildableName = "GPVideoPlayer_Example.app"
+               BlueprintName = "GPVideoPlayer_Example"
+               ReferencedContainer = "container:GPVideoPlayer.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "607FACE41AFB9204008FA782"
+               BuildableName = "GPVideoPlayer_Tests.xctest"
+               BlueprintName = "GPVideoPlayer_Tests"
                ReferencedContainer = "container:GPVideoPlayer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -26,8 +40,28 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      codeCoverageEnabled = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "607FACCF1AFB9204008FA782"
+            BuildableName = "GPVideoPlayer_Example.app"
+            BlueprintName = "GPVideoPlayer_Example"
+            ReferencedContainer = "container:GPVideoPlayer.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "607FACE41AFB9204008FA782"
+               BuildableName = "GPVideoPlayer_Tests.xctest"
+               BlueprintName = "GPVideoPlayer_Tests"
+               ReferencedContainer = "container:GPVideoPlayer.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
@@ -44,9 +78,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "40A97885250B456000D200C5"
-            BuildableName = "iOS.app"
-            BlueprintName = "iOS"
+            BlueprintIdentifier = "607FACCF1AFB9204008FA782"
+            BuildableName = "GPVideoPlayer_Example.app"
+            BlueprintName = "GPVideoPlayer_Example"
             ReferencedContainer = "container:GPVideoPlayer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -61,9 +95,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "40A97885250B456000D200C5"
-            BuildableName = "iOS.app"
-            BlueprintName = "iOS"
+            BlueprintIdentifier = "607FACCF1AFB9204008FA782"
+            BuildableName = "GPVideoPlayer_Example.app"
+            BlueprintName = "GPVideoPlayer_Example"
             ReferencedContainer = "container:GPVideoPlayer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
