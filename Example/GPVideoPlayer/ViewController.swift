@@ -19,11 +19,9 @@ class ViewController: UIViewController {
             
             self.mediaView.addSubview(player)
             
-            let url1 = URL(string: "https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4")!
-            let url2 = URL(string:
-                "https://archive.org/download/commute/commute.mp4")!
-            
-            player.loadVideos(with: [url1, url2])
+            let url = URL(string: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4")!
+
+            player.loadVideo(with: url)
             player.isToShowPlaybackControls = true
             player.isMuted = true
             player.playVideo()
