@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import GPVideoPlayer
 
 class ViewController: UIViewController {
     @IBOutlet weak var mediaView: UIView!
@@ -21,8 +20,8 @@ class ViewController: UIViewController {
             self.mediaView.addSubview(player)
             
             let url1 = URL(string: "https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4")!
-            let videoFilePath = Bundle.main.path(forResource: "video", ofType: "mp4")
-            let url2 = URL(fileURLWithPath: videoFilePath!)
+            let url2 = URL(string:
+                "https://archive.org/download/commute/commute.mp4")!
             
             player.loadVideos(with: [url1, url2])
             player.isToShowPlaybackControls = true
