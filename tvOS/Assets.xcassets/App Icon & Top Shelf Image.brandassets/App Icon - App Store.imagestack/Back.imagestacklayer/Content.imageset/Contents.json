@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "player.png",
       "idiom" : "tv"
     }
   ],
