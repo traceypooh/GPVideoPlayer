@@ -22,7 +22,7 @@ It is simple and easy to use video player with playback controls written in Swif
 To run the example project,
 
 1. Clone the repo.
-2. Open `GPVideoPlayer -> Example -> GPVideoPlayer.xcworkspace`
+2. `open GPVideoPlayer.xcodeproj`
 3. Run the project (cmd + R)
 
 ## Code
